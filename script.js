@@ -1,5 +1,4 @@
 const quotes = ["“Religion is the opium of the people.” — Karl Marx",
-    "“Democracy is the road to socialism.” — Karl Marx    ", 
     "“History repeats itself, first as tragedy, second as farce.” — Karl Marx    ",
     "“Keep people from their history, and they are easily controlled.” — Karl Marx"]
 
