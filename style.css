@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'myFont';
+    src: url(buran.ttf);
+}
+
+
+h1{
+    font-family: 'myFont';
+    color: red;
+}
+
+button{
+    background-color: darkred;
+    color: wheat;
+}
+
+body{
+    text-align: center;
+}
